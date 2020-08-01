@@ -23,3 +23,7 @@ git push --set-upstream -f git@github.com:memoryleakyu/memoryleakyu.github.io.gi
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 cd -
+
+git add .
+git commit -m 'add blog'
+git push origin dev

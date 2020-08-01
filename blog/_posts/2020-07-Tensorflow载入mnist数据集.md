@@ -1,4 +1,13 @@
-# Tensorflow 载入mnist数据集
+---
+title: Tensorflow 载入mnist数据集
+date: 2020-07-29
+tags: 
+- Tensorflow
+- Machine Learning
+author: memroyleakyu
+location: Shenzhen
+---
+
 
 最近打算认真学习一下机器学习相关的项目，最好的教程当然是官方文档，所以直接从[官方教程](https://www.tensorflow.org/tutorials/quickstart/beginner)入手。
 

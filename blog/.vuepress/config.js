@@ -1,4 +1,5 @@
 module.exports = {
+  base: 'blog',
   title: 'Memoryleak\'s Blog',
   description: 'A personal blog',
   theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
@@ -35,6 +36,10 @@ module.exports = {
           type: 'twitter',
           link: 'https://twitter.com/memoryleakyu',
         },
+        {
+          type: 'mail',
+          link: 'mailto:memoryleakyu@gmail.com',
+        },
       ],
       copyright: [
         {
@@ -48,4 +53,5 @@ module.exports = {
       ],
     },
   },
+
 }
