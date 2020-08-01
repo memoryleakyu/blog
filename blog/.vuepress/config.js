@@ -1,5 +1,5 @@
 module.exports = {
-  base: 'blog',
+  base: '/blog/',
   title: 'Memoryleak\'s Blog',
   description: 'A personal blog',
   theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
